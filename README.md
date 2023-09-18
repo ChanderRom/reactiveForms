@@ -1,4 +1,5 @@
-# FormsApp
+# Reactive Forms
+_Project part of Fernando Herrera's 2023 Angular course _
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
